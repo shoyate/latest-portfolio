@@ -1,0 +1,615 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #0f0f0f;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.frame22 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1532px;
+  height: 706px;
+  align-items: flex-start;
+  background-color: #000;
+  overflow: hidden;
+}
+.akarIconsFigmaFill {
+  position: absolute;
+  left: 319px;
+  top: 628px;
+  width: 40px;
+  height: 40px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.fa6BrandsMeta {
+  position: absolute;
+  left: 223px;
+  top: 628px;
+  width: 50px;
+  height: 40px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.frame7 {
+  position: absolute;
+  left: 553px;
+  top: -33px;
+  width: 1000px;
+  height: 1000px;
+  align-items: flex-start;
+  background-color: #000;
+}
+.vector {
+  position: absolute;
+  left: 500px;
+  top: -189px;
+  width: 695px;
+  height: 850.0928px;
+  overflow: visible;
+  filter: blur(75px);
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 273px;
+  top: 1.3783px;
+  width: 966px;
+  height: 1176.4832px;
+  overflow: visible;
+  filter: blur(204.99949645996094px);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.noise {
+  position: absolute;
+  left: 166px;
+  top: 33px;
+  width: 813px;
+  height: 707px;
+  background-image:/* webpackIgnore: true */ url('/assets/noise.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.designlab {
+  color: #000;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 801px;
+  top: 95px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.helloIMCanBasedInPolandPoznan {
+  color: #979797;
+  font-size: 16px;
+  line-height: 110.7%;
+  font-weight: 100;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  position: absolute;
+  left: 67px;
+  top: 179px;
+  width: 439px;
+  height: min-content;
+  flex-direction: column;
+}
+.webDeveloperUiUxDesignerBehavi {
+  position: absolute;
+  left: 67px;
+  top: 203px;
+  width: 842px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #2d2d2d;
+  font-size: 65px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #2d2d2d;
+  font-size: 65px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #2d2d2d;
+  font-size: 65px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 65px;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 65px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.image2 {
+  position: absolute;
+  left: 67px;
+  top: 628px;
+  width: 110px;
+  height: 36px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame23 {
+  position: absolute;
+  left: 0;
+  top: 706px;
+  width: 1532px;
+  height: 1016px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.line2 {
+  position: absolute;
+  left: 1199px;
+  top: 35px;
+  width: 195px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  outline: solid 1px #fff;
+}
+.frame14 {
+  position: absolute;
+  left: -5.3525%;
+  right: -19.9739%;
+  top: 39.6654%;
+  bottom: -5.315%;
+  align-items: flex-start;
+  overflow-x: auto;
+}
+.frame16 {
+  position: absolute;
+  left: 31.1979%;
+  right: 43.6458%;
+  top: 8.6957%;
+  bottom: 0.2999%;
+  align-items: flex-start;
+}
+._1 {
+  position: absolute;
+  left: 42px;
+  top: 22px;
+  width: 400px;
+  height: 500px;
+  border-radius: 24px;
+  background-color: #000;
+  background-image:/* webpackIgnore: true */ url('/assets/_1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 0px 0px 0px #0000001a, 3px 8px 18px 0px #0000001a, 13px 31px 34px 0px #00000017,
+    30px 69px 45px 0px #0000000d, 53px 123px 54px 0px #00000003, 83px 193px 59px 0px #0000;
+}
+.workInProgressSaaS {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 77px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.taskManagementAppForStartups {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.005em;
+  position: absolute;
+  left: 65px;
+  top: 174px;
+  width: 354px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._2022 {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 300;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  position: absolute;
+  left: 374px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame15 {
+  position: absolute;
+  left: -107.2464%;
+  right: 107.2464%;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+}
+.rectangle14 {
+  position: absolute;
+  left: 42px;
+  top: 203px;
+  width: 400px;
+  height: 318px;
+  background-color: #fff0;
+}
+._12 {
+  position: absolute;
+  left: 42px;
+  top: 22px;
+  width: 400px;
+  height: 500px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0px 0px 0px 0px #0000001a, 3px 8px 18px 0px #0000001a, 13px 31px 34px 0px #00000017,
+    30px 69px 45px 0px #0000000d, 53px 123px 54px 0px #00000003, 83px 193px 59px 0px #0000;
+}
+._20222 {
+  color: #000;
+  font-size: 17px;
+  font-weight: 300;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  position: absolute;
+  left: 371px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.caseStudy {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 77px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.myPortfolioWebsiteBuiltInReact {
+  color: #000;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.005em;
+  position: absolute;
+  left: 99px;
+  top: 123px;
+  width: 286px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.iMac_black1 {
+  position: absolute;
+  left: 62px;
+  top: 218px;
+  width: 361px;
+  height: 304px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMac_black1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame17 {
+  position: absolute;
+  left: 58.125%;
+  right: 16.7188%;
+  top: 8.6957%;
+  bottom: 0.2999%;
+  align-items: flex-start;
+}
+._13 {
+  position: absolute;
+  left: 42px;
+  top: 22px;
+  width: 400px;
+  height: 500px;
+  border-radius: 24px;
+  background-color: #f6e9fd;
+  box-shadow: 0px 0px 0px 0px #0000001a, 3px 8px 18px 0px #0000001a, 13px 31px 34px 0px #00000017,
+    30px 69px 45px 0px #0000000d, 53px 123px 54px 0px #00000003, 83px 193px 59px 0px #0000;
+}
+.caseStudy2 {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 77px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lilac_iMac1 {
+  position: absolute;
+  left: 62px;
+  top: 218px;
+  width: 359px;
+  height: 303px;
+  background-image:/* webpackIgnore: true */ url('/assets/lilac_iMac1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.adminDashboardForHouseRenderin {
+  color: #000;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.005em;
+  position: absolute;
+  left: 65px;
+  top: 131px;
+  width: 354px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._20223 {
+  color: #000;
+  font-size: 17px;
+  font-weight: 300;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.045em;
+  position: absolute;
+  left: 382px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame19 {
+  position: absolute;
+  left: 85.8333%;
+  right: -10.9896%;
+  top: 8.9955%;
+  bottom: 0;
+  align-items: flex-start;
+}
+._14 {
+  position: absolute;
+  left: 42px;
+  top: 22px;
+  width: 400px;
+  height: 500px;
+  border-radius: 24px;
+  background-color: #fafff4;
+  box-shadow: 0px 0px 0px 0px #0000001a, 3px 8px 18px 0px #0000001a, 13px 31px 34px 0px #00000017,
+    30px 69px 45px 0px #0000000d, 53px 123px 54px 0px #00000003, 83px 193px 59px 0px #0000;
+}
+.caseStudy3 {
+  color: #5f8679;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 77px;
+  top: 62px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.personalManagementAppForEmploy {
+  color: #000;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.005em;
+  position: absolute;
+  left: 65px;
+  top: 131px;
+  width: 354px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.red_iMac1 {
+  position: absolute;
+  left: 65px;
+  top: 218px;
+  width: 358px;
+  height: 303px;
+  background-image:/* webpackIgnore: true */ url('/assets/red_iMac1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line3 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 1532px;
+  top: -1px;
+  width: 1532px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #373737;
+  margin-bottom: -1px;
+  transform: matrix(-1, 0, 0, -1, 0, 0);
+}
+._2013 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 300;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1121px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._20224 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 300;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1415px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame24 {
+  position: absolute;
+  left: 41px;
+  top: 91px;
+  width: 1436px;
+  height: 312px;
+  align-items: flex-start;
+  border-radius: 18px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle16 {
+  position: absolute;
+  left: 0;
+  top: -0.0004px;
+  width: 1436px;
+  height: 312px;
+  border-radius: 18px;
+  background-color: #efdec5;
+}
+._11 {
+  transform-origin: top left;
+  position: absolute;
+  left: 609px;
+  top: -20.0742px;
+  width: 243.1268px;
+  height: 527.1644px;
+  background-image:/* webpackIgnore: true */ url('/assets/_11.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.9659, -0.2588, 0.2588, 0.9659, 0, 0);
+}
+._122 {
+  transform-origin: top left;
+  position: absolute;
+  left: 910px;
+  top: -20.0742px;
+  width: 243.1268px;
+  height: 527.1644px;
+  background-image:/* webpackIgnore: true */ url('/assets/_12.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.9659, -0.2588, 0.2588, 0.9659, 0, 0);
+}
+._132 {
+  transform-origin: top left;
+  position: absolute;
+  left: 1211px;
+  top: -20.0742px;
+  width: 243.1268px;
+  height: 527.1644px;
+  background-image:/* webpackIgnore: true */ url('/assets/_13.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.9659, -0.2588, 0.2588, 0.9659, 0, 0);
+}
+.group16 {
+  position: absolute;
+  left: 63px;
+  top: 195px;
+  width: 70px;
+  height: 70px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.denemeOlarakBunuYaziyorum {
+  color: #000;
+  font-size: 63px;
+  font-weight: 500;
+  font-family: Larsseit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 63px;
+  top: 57px;
+  width: 485px;
+  height: min-content;
+  flex-direction: column;
+}
